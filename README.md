@@ -13,3 +13,7 @@ This project is part of [javascript course tought by Jonas Schmedtmann](https://
 **4.** Repeat step 2 above.
 
 ### DO NOT change anything in the dist folder
+
+#### The API used is from the forkify project in Jonas Schmedtmann's [Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/).
+
+#### [Available search queries](https://forkify-api.herokuapp.com/phrases.html)
