@@ -2,18 +2,16 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "",
-  "targets": {
-    "main": false
-  },
+  "dafault": "index.html",
   "scripts": {
     "parcel": "parcel index.html",
-    "parcelBuild": "parcel build index.html"
+    "parcelBuild": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Vincent Kimatu",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.2",
-    "parcel": "^2.6.2"
+    "parcel": "^2.6.2",
+    "@parcel/transformer-sass": "^2.6.2"
   },
   "dependencies": {
     "core-js": "^3.23.5",
