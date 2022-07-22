@@ -2,7 +2,8 @@ import icons from 'url:../../img/icons.svg';
 import view from './view.js';
 
 // fraction arithmetic library
-import Fraction from 'fractional';
+// import Fraction from 'fractional';
+import fracty from 'fracty';
 
 class recipeView extends view {
   _parentElement = document.querySelector('.recipe');

@@ -10,12 +10,13 @@
   "author": "Vincent Kimatu",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.6.2",
-    "@parcel/transformer-sass": "^2.6.2"
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
   },
   "dependencies": {
     "core-js": "^3.23.5",
     "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.9"
   }
 }
