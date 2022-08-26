@@ -1,5 +1,7 @@
 # FORKIFY APP
 
+## [LIVE PREVIEW](https://forkifyvincent.netlify.app/)
+
 This project is part of [javascript course tought by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) I built it by following the course.
 
 ## How to get started
@@ -15,5 +17,7 @@ This project is part of [javascript course tought by Jonas Schmedtmann](https://
 ### DO NOT change anything in the dist folder
 
 #### The API used is from the forkify project in Jonas Schmedtmann's [Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/).
+
+#### [LIVE PREVIEW](https://forkifyvincent.netlify.app/)
 
 #### [Available search queries](https://forkify-api.herokuapp.com/phrases.html)
